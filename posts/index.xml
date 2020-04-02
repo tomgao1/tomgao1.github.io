@@ -2,31 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 豪子的博客</title>
-    <link>http://example.org/posts/</link>
+    <link>http://tomgao1.github/posts/</link>
     <description>Recent content in Posts on 豪子的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Tue, 31 Mar 2020 17:38:20 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tomgao1.github/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>开博大吉</title>
-      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <title>如何用hugo搭建个人博客</title>
+      <link>http://tomgao1.github/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo/</link>
       <pubDate>Tue, 31 Mar 2020 17:38:20 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
-      <description>大家好2 我的博客开通了，希望以后多多交流。</description>
-    </item>
-    
-    <item>
-      <title>第二篇博客</title>
-      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89-22/</link>
-      <pubDate>Tue, 31 Mar 2020 17:38:20 +0800</pubDate>
-      
-      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89-22/</guid>
-      <description>大家好 这是我的第二篇博客 我的博客开通了，希望以后多多交流。</description>
+      <guid>http://tomgao1.github/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo/</guid>
+      <description>使用 hugo 搭建博客  首先安装 hugo 然后配置 Hugo，去其官网抄代码，直到 Step7 得到一个 public 目录，这就是我们的博客站点 hugo server-D 可以预见草稿 hugo server 可以预见非草稿 接下来双击打开网站预览 不能预览的话使用 hugo server 预览 然后可以选择皮肤切换 end 最后就是皮肤太复杂   </description>
     </item>
     
   </channel>
